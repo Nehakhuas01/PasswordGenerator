@@ -1,0 +1,43 @@
+.container{
+  background-color: darkslategrey;
+  height:150px;
+  width:1200px;
+  border-radius: 4px;
+  margin-bottom: 500px;
+  margin-left: 180px;
+}
+
+.heading{
+  margin-left: 450px;
+  color: azure;
+}
+
+.container2{
+  margin-left: 450px ;
+  height: 20px;
+}
+
+.inputbox{
+    width:250px;
+    height: 30px;
+}
+
+.btn{
+   background-color: blue;
+}
+
+.lengthcolor{
+  color: azure;
+}
+#num{
+  color: aqua;
+}
+#char{
+  color: aqua;
+}
+
+.background{
+  background-color: rgb(123, 123, 158);
+  height: 800px;
+  width: 1600px;
+}
